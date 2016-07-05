@@ -1,0 +1,139 @@
+language: Русский
+
+countries: ru
+
+// Central Component
+
+"Used Letters:" = "Использованные буквы:"
+
+"MISSES:" = "ПРОМАХИ:"
+
+"WORD:" = "СЛОВО:"
+
+"Input a letter:" = "Введите букву:"
+
+"abcdefghijklmnopqrstuvwxyz" = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+
+"Enter" = "Ввод"
+
+"Guess a letter in the word" = "Угадайте букву в слове"
+
+"Game" = "Игра"
+
+"Category" = "Категория"
+
+"Theme" = "Тема"
+
+"Language" = "Язык"
+
+"New" = "Новая"
+
+"Quit" = "Выход"
+
+"About the programme" = "О программе"
+
+"About JUCE" = "О JUCE"
+
+"Animals" = "Животные"
+
+"Clothing" = "Одежда"
+
+"Fruits" = "Фрукты"
+
+"Objects" = "Предметы"
+
+"Professions" = "Профессии"
+
+"Transportation" = "Транспорт"
+
+"Vegetables" = "Овощи"
+
+"Clear Blue" = "Чистый синий"
+
+"Eagle" = "Орёл"
+
+"Mountain Village" = "Горная деревня"
+
+"Mountains" = "Горы"
+
+"Night" = "Ночь"
+
+"Sunset" = "Закат"
+
+"Tropical Island" = "Тропический остров"
+
+"Waterfall" = "Водопад"
+
+"The input field is empty!" = "Поле ввода пусто!"
+
+"Enter a letter to check its presence in the secret word!" = "Введите букву, чтобы проверить её наличие в угадываемом слове!"
+
+"Accept" = "Принять"
+
+"Attention!" = "Внимание!"
+
+"You have already used this letter." = "Вы уже использовали эту букву!"
+
+"It was hidden the word" = "Было загадано слово"
+
+"Sorry, you just lost the game!" = "Сожалею, Вы проиграли!"
+
+"Congratulations!" = "Поздравляю!"
+
+"You just won the game!" = "Вы выиграли!"
+
+"Yes" = "Да"
+
+"Saving" = "Сохранение"
+
+"Settings were saved successfully." = "Настройки были успешно сохранены."
+
+"Error saving" = "Ошибка сохранения"
+
+"Failed to save settings!" = "Не удалось сохранить настройки!"
+
+// Toolbar Factory
+
+"Guess a new word from the selected category (Ctrl+N)" = "Угадать новое слово из выбранной категории (Ctrl+N)"
+
+"Finish the programme (Ctrl+Q)" = "Завершить работу программы (Ctrl+Q)"
+
+"Show brief information about the programme and its author (Ctrl+A)" = "Показать краткую информацию о программе и её авторе (Ctrl+A)"
+
+"Show information about the JUCE library (Ctrl+J)" = "Показать информацию о библиотеке JUCE (Ctrl+J)"
+
+"Save current settings (language, category, theme)  (Ctrl+S)" = "Сохранить текущие настройки (язык, категорию, тему)  (Ctrl+S)"
+
+// About Dialogue
+
+"Author: Andrey Kuznetsov" = "Автор: Андрей Николаевич Кузнецов"
+
+"city of Almaty, Kazakhstan" = "г. Алматы, Казахстан"
+
+"My LinkedIn profile" = "Мой профиль LinkedIn"
+
+"Computer implementation of the popular guessing game" = "Компьютерная реализация популярной головоломки"
+
+"Hangman" = "Виселица"
+
+"How to play" = "Как играть"
+
+"In a classical paper and pencil game one player thinks of a word, and the other tries to guess it by suggesting letters, within a certain number of guesses." = "В традиционной, с использованием бумаги и карандаша, версии игры один игрок задумывает слово, а другой пытается угадать его, называя буквы за определённое число попыток."
+
+"In the JBHangman application, the programme acts as the first player thinking a random word from the certain category which may be selected by a player from the drop-down list or menu." = "В приложении JBHangman сама программа выступает в качестве первого игрока, задумывая случайное слово из определённой категории, которую пользователь может выбрать в выпадающем списке или меню."
+
+"Number of guesses in the programme is 10." = "Число попыток в программе равно 10."
+
+// About JUCE Dialogue
+
+"This programme uses JUCE version" = "Эта программа использует JUCE версии"
+
+"JUCE is a C++ toolkit for cross-platform application development." = "JUCE является инструментарием для кроссплатформенной разработки приложений на C++."
+
+"JUCE provides single-soure portability across Linux, MS Windows, Mac OS X and Android." = "JUCE обеспечивает переносимость на уровне исходного кода между Linux, MS Windows, Mac OS X и Android."
+
+"JUCE is a ROLI product. See https://www.roli.com/juce for more information." = "JUCE - продукт компании ROLI. См. https://www.roli.com/juce для большей информации."
+                          
+"JUCE is available under different licenses. This application uses the Open Source version of JUCE under GPL 2." = "JUCE доступна под различными лицензиями. Это приложение использует Open Source версию JUCE под лицензией GPL 2."
+
+"You need the commercial license of JUCE for proprietary (closed source) applications." = "Вам необходима коммерческая лицензия JUCE для разработки коммерческих (с закрытым исходным кодом) приложений."

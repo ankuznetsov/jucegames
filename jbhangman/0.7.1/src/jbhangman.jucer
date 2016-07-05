@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="HbsYH9" name="JBHangman" projectType="guiapp" version="0.7.1"
+              bundleIdentifier="Linmedsoft.jbhangman" includeBinaryInAppConfig="1"
+              jucerVersion="4.1.0" companyName="Andrey Kuznetsov" companyEmail="linmedsoft@gmail.com"
+              companyWebsite="http://ankuznetsov.wix.com/jucegames">
+  <MAINGROUP id="Ies30j" name="JBHangman">
+    <GROUP id="{287D75D0-71F3-CB9C-B984-95900B800B10}" name="Trans">
+      <FILE id="Si6v9y" name="en.lng" compile="0" resource="1" file="Source/translations/en.lng"/>
+      <FILE id="SKTQ23" name="ru.lng" compile="0" resource="1" file="Source/translations/ru.lng"/>
+    </GROUP>
+    <GROUP id="{EBD6874A-33ED-9143-053F-206CD31F093D}" name="Text">
+      <FILE id="mS62aQ" name="animals-EN.txt" compile="0" resource="1" file="Source/text/animals-EN.txt"/>
+      <FILE id="cCQAZi" name="animals-RU.txt" compile="0" resource="1" file="Source/text/animals-RU.txt"/>
+      <FILE id="YENVq1" name="clothing-EN.txt" compile="0" resource="1" file="Source/text/clothing-EN.txt"/>
+      <FILE id="GpnpfO" name="clothing-RU.txt" compile="0" resource="1" file="Source/text/clothing-RU.txt"/>
+      <FILE id="bZi3hz" name="fruits-EN.txt" compile="0" resource="1" file="Source/text/fruits-EN.txt"/>
+      <FILE id="WnbnRx" name="fruits-RU.txt" compile="0" resource="1" file="Source/text/fruits-RU.txt"/>
+      <FILE id="FFkD3F" name="objects-EN.txt" compile="0" resource="1" file="Source/text/objects-EN.txt"/>
+      <FILE id="WadIch" name="objects-RU.txt" compile="0" resource="1" file="Source/text/objects-RU.txt"/>
+      <FILE id="i82JZZ" name="professions-EN.txt" compile="0" resource="1"
+            file="Source/text/professions-EN.txt"/>
+      <FILE id="B8Uxff" name="professions-RU.txt" compile="0" resource="1"
+            file="Source/text/professions-RU.txt"/>
+      <FILE id="VppJVb" name="transportation-EN.txt" compile="0" resource="1"
+            file="Source/text/transportation-EN.txt"/>
+      <FILE id="Qh80GD" name="transportation-RU.txt" compile="0" resource="1"
+            file="Source/text/transportation-RU.txt"/>
+      <FILE id="EF0LV0" name="vegetables-EN.txt" compile="0" resource="1"
+            file="Source/text/vegetables-EN.txt"/>
+      <FILE id="tJB8D4" name="vegetables-RU.txt" compile="0" resource="1"
+            file="Source/text/vegetables-RU.txt"/>
+    </GROUP>
+    <GROUP id="{7E3FC2F5-122B-DA01-2863-552B97EDDFE2}" name="Binary">
+      <FILE id="XbFoeJ" name="00.png" compile="0" resource="1" file="Source/images/00.png"/>
+      <FILE id="iJB2fB" name="01.png" compile="0" resource="1" file="Source/images/01.png"/>
+      <FILE id="FdbeKq" name="02.png" compile="0" resource="1" file="Source/images/02.png"/>
+      <FILE id="wR3xOA" name="03.png" compile="0" resource="1" file="Source/images/03.png"/>
+      <FILE id="vXUVSU" name="04.png" compile="0" resource="1" file="Source/images/04.png"/>
+      <FILE id="PRXQd1" name="05.png" compile="0" resource="1" file="Source/images/05.png"/>
+      <FILE id="dveSvM" name="06.png" compile="0" resource="1" file="Source/images/06.png"/>
+      <FILE id="UAW0Jx" name="07.png" compile="0" resource="1" file="Source/images/07.png"/>
+      <FILE id="tPzMbH" name="08.png" compile="0" resource="1" file="Source/images/08.png"/>
+      <FILE id="z8OEvS" name="09.png" compile="0" resource="1" file="Source/images/09.png"/>
+      <FILE id="y8OlJC" name="10.png" compile="0" resource="1" file="Source/images/10.png"/>
+      <FILE id="tGe8SG" name="blue.png" compile="0" resource="1" file="Source/images/blue.png"/>
+      <FILE id="FNFwmM" name="eagle.jpg" compile="0" resource="1" file="Source/images/eagle.jpg"/>
+      <FILE id="NPR4AE" name="exit.png" compile="0" resource="1" file="Source/images/exit.png"/>
+      <FILE id="Gamenp" name="info.png" compile="0" resource="1" file="Source/images/info.png"/>
+      <FILE id="T2szgl" name="island.jpeg" compile="0" resource="1" file="Source/images/island.jpeg"/>
+      <FILE id="wBTLyk" name="jbhicon.png" compile="0" resource="1" file="Source/images/jbhicon.png"/>
+      <FILE id="bUidMc" name="juce-sm.png" compile="0" resource="1" file="Source/images/juce-sm.png"/>
+      <FILE id="SzTKgQ" name="juce.png" compile="0" resource="1" file="Source/images/juce.png"/>
+      <FILE id="abrR7l" name="me.png" compile="0" resource="1" file="Source/images/me.png"/>
+      <FILE id="eDVakt" name="mountain_village.jpg" compile="0" resource="1"
+            file="Source/images/mountain_village.jpg"/>
+      <FILE id="y0rTLi" name="mountains.jpg" compile="0" resource="1" file="Source/images/mountains.jpg"/>
+      <FILE id="Qqx5Az" name="new.png" compile="0" resource="1" file="Source/images/new.png"/>
+      <FILE id="al2w16" name="night.jpg" compile="0" resource="1" file="Source/images/night.jpg"/>
+      <FILE id="oo3Jce" name="save.png" compile="0" resource="1" file="Source/images/save.png"/>
+      <FILE id="HoaevZ" name="sunset.jpg" compile="0" resource="1" file="Source/images/sunset.jpg"/>
+      <FILE id="RqJ6Hx" name="waterfall.jpg" compile="0" resource="1" file="Source/images/waterfall.jpg"/>
+    </GROUP>
+    <GROUP id="{92B1B225-A135-EE12-9CDA-4F4AACB799B5}" name="Source">
+      <FILE id="JmxXqD" name="main.cpp" compile="1" resource="0" file="Source/main.cpp"/>
+      <FILE id="hBdJTu" name="TAboutComponent.cpp" compile="1" resource="0"
+            file="Source/TAboutComponent.cpp"/>
+      <FILE id="xiZJ99" name="TAboutComponent.h" compile="0" resource="0"
+            file="Source/TAboutComponent.h"/>
+      <FILE id="DUHwtQ" name="TAboutJuceComponent.cpp" compile="1" resource="0"
+            file="Source/TAboutJuceComponent.cpp"/>
+      <FILE id="Dsd1vk" name="TAboutJuceComponent.h" compile="0" resource="0"
+            file="Source/TAboutJuceComponent.h"/>
+      <FILE id="lqpKiK" name="TActions.h" compile="0" resource="0" file="Source/TActions.h"/>
+      <FILE id="kftrZu" name="TApplication.cpp" compile="1" resource="0"
+            file="Source/TApplication.cpp"/>
+      <FILE id="H3Tam1" name="TApplication.h" compile="0" resource="0" file="Source/TApplication.h"/>
+      <FILE id="xumk3X" name="TCentralComponent.cpp" compile="1" resource="0"
+            file="Source/TCentralComponent.cpp"/>
+      <FILE id="BbO6TL" name="TCentralComponent.h" compile="0" resource="0"
+            file="Source/TCentralComponent.h"/>
+      <FILE id="ZlR2pX" name="TMainWindow.cpp" compile="1" resource="0" file="Source/TMainWindow.cpp"/>
+      <FILE id="ZeEdzd" name="TMainWindow.h" compile="0" resource="0" file="Source/TMainWindow.h"/>
+      <FILE id="j9omty" name="TThemeComboBox.cpp" compile="1" resource="0"
+            file="Source/TThemeComboBox.cpp"/>
+      <FILE id="CLSkGv" name="TThemeComboBox.h" compile="0" resource="0"
+            file="Source/TThemeComboBox.h"/>
+      <FILE id="W5MIwd" name="TToolbarFactory.cpp" compile="1" resource="0"
+            file="Source/TToolbarFactory.cpp"/>
+      <FILE id="nGGT7t" name="TToolbarFactory.h" compile="0" resource="0"
+            file="Source/TToolbarFactory.h"/>
+      <FILE id="VRqDyx" name="TWLComboBox.cpp" compile="1" resource="0" file="Source/TWLComboBox.cpp"/>
+      <FILE id="p0gE2N" name="TWLComboBox.h" compile="0" resource="0" file="Source/TWLComboBox.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX" smallIcon="wBTLyk" bigIcon="wBTLyk">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" isDebug="1" optimisation="1" targetName="jbhangman"
+                       osxSDK="default" osxCompatibility="default" osxArchitecture="default"/>
+        <CONFIGURATION name="Release" isDebug="0" optimisation="3" targetName="jbhangman"
+                       osxSDK="default" osxCompatibility="default" osxArchitecture="default"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../modules"/>
+        <MODULEPATH id="juce_events" path="../../modules"/>
+        <MODULEPATH id="juce_graphics" path="../../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+    <VS2015 targetFolder="Builds/VisualStudio2015" smallIcon="wBTLyk" bigIcon="wBTLyk">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" winArchitecture="32-bit"
+                       isDebug="1" optimisation="1" targetName="jbhangman"/>
+        <CONFIGURATION name="Release" winWarningLevel="4" generateManifest="1" winArchitecture="32-bit"
+                       isDebug="0" optimisation="3" targetName="jbhangman"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../modules"/>
+        <MODULEPATH id="juce_events" path="../../modules"/>
+        <MODULEPATH id="juce_graphics" path="../../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../modules"/>
+      </MODULEPATHS>
+    </VS2015>
+    <VS2013 targetFolder="Builds/VisualStudio2013" smallIcon="wBTLyk" bigIcon="wBTLyk">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" winArchitecture="32-bit"
+                       isDebug="1" optimisation="1" targetName="jbhangman" useRuntimeLibDLL="0"/>
+        <CONFIGURATION name="Release" winWarningLevel="4" generateManifest="1" winArchitecture="32-bit"
+                       isDebug="0" optimisation="3" targetName="jbhangman" useRuntimeLibDLL="0"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../modules"/>
+        <MODULEPATH id="juce_events" path="../../modules"/>
+        <MODULEPATH id="juce_graphics" path="../../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../modules"/>
+      </MODULEPATHS>
+    </VS2013>
+    <LINUX_MAKE targetFolder="Builds/LinuxMakefile" smallIcon="wBTLyk" bigIcon="wBTLyk">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" libraryPath="/usr/X11R6/lib/" isDebug="1" optimisation="1"
+                       targetName="jbhangman" linuxArchitecture="-m32"/>
+        <CONFIGURATION name="Release" libraryPath="/usr/X11R6/lib/" isDebug="0" optimisation="3"
+                       targetName="jbhangman" linuxArchitecture="-m32"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../modules"/>
+        <MODULEPATH id="juce_events" path="../../modules"/>
+        <MODULEPATH id="juce_graphics" path="../../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../modules"/>
+      </MODULEPATHS>
+    </LINUX_MAKE>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0"/>
+  </MODULES>
+  <JUCEOPTIONS/>
+</JUCERPROJECT>

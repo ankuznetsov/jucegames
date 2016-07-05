@@ -1,0 +1,139 @@
+language: English
+
+countries: uk
+
+// Central Component
+
+"Used Letters:" = "Used Letters:"
+
+"MISSES:" = "MISSES:"
+
+"WORD:" = "WORD:"
+
+"Input a letter:" = "Input a letter:"
+
+"abcdefghijklmnopqrstuvwxyz" = "abcdefghijklmnopqrstuvwxyz"
+
+"Enter" = "Enter"
+
+"Guess a letter in the word" = "Guess a letter in the word"
+
+"Game" = "Game"
+
+"Category" = "Category"
+
+"Theme" = "Theme"
+
+"Language" = "Language"
+
+"New" = "New"
+
+"Quit" = "Quit"
+
+"About the programme" = "About the programme"
+
+"About JUCE" = "About JUCE"
+
+"Animals" = "Animals"
+
+"Clothing" = "Clothing"
+
+"Fruits" = "Fruits"
+
+"Objects" = "Objects"
+
+"Professions" = "Professions"
+
+"Transportation" = "Transportation"
+
+"Vegetables" = "Vegetables"
+
+"Clear Blue" = "Clear Blue"
+
+"Eagle" = "Eagle"
+
+"Mountain Village" = "Mountain Village"
+
+"Mountains" = "Mountains"
+
+"Night" = "Night"
+
+"Sunset" = "Sunset"
+
+"Tropical Island" = "Tropical Island"
+
+"Waterfall" = "Waterfall"
+
+"The input field is empty!" = "The input field is empty!"
+
+"Enter a letter to check its presence in the secret word!" = "Enter a letter to check its presence in the secret word!"
+
+"Accept" = "Accept"
+
+"Attention!" = "Attention!"
+
+"You have already used this letter." = "You have already used this letter."
+
+"It was hidden the word" = "It was hidden the word"
+
+"Sorry, you just lost the game!" = "Sorry, you just lost the game!"
+
+"Congratulations!" = "Congratulations!"
+
+"You just won the game!" = "You just won the game!"
+
+"Yes" = "Yes"
+
+"Saving" = "Saving"
+
+"Settings were saved successfully." = "Settings were saved successfully."
+
+"Error saving" = "Error saving"
+
+"Failed to save settings!" = "Failed to save settings!"
+
+// Toolbar Factory
+
+"Guess a new word from the selected category (Ctrl+N)" = "Guess a new word from the selected category (Ctrl+N)"
+
+"Finish the programme (Ctrl+Q)" = "Finish the programme (Ctrl+Q)"
+
+"Show brief information about the programme and its author (Ctrl+A)" = "Show brief information about the programme and its author (Ctrl+A)"
+
+"Show information about the JUCE library (Ctrl+J)" = "Show information about the JUCE library (Ctrl+J)"
+
+"Save current settings (language, category, theme)  (Ctrl+S)" = "Save current settings (language, category, theme)  (Ctrl+S)"
+
+// About Dialogue
+
+"Author: Andrey Kuznetsov" = "Author: Andrey Kuznetsov"
+
+"city of Almaty, Kazakhstan" = "city of Almaty, Kazakhstan"
+
+"My LinkedIn profile" = "My LinkedIn profile"
+
+"Computer implementation of the popular guessing game" = "Computer implementation of the popular guessing game"
+
+"Hangman" = "Hangman"
+
+"How to play" = "How to play"
+
+"In a classical paper and pencil game one player thinks of a word, and the other tries to guess it by suggesting letters, within a certain number of guesses." = "In a classical paper and pencil game one player thinks of a word, and the other tries to guess it by suggesting letters, within a certain number of guesses."
+
+"In the JBHangman application, the programme acts as the first player thinking a random word from the certain category which may be selected by a player from the drop-down list or menu." = "In the JBHangman application, the programme acts as the first player thinking a random word from the certain category which may be selected by a player from the drop-down list or menu."
+
+"Number of guesses in the programme is 10." = "Number of guesses in the programme is 10."
+
+// About JUCE Dialogue
+
+"This programme uses JUCE version" = "This programme uses JUCE version"
+
+"JUCE is a C++ toolkit for cross-platform application development." = "JUCE is a C++ toolkit for cross-platform application development."
+
+"JUCE provides single-soure portability across Linux, MS Windows, Mac OS X and Android." = "JUCE provides single-soure portability across Linux, MS Windows, Mac OS X and Android."
+
+"JUCE is a ROLI product. See https://www.roli.com/juce for more information." = "JUCE is a ROLI product. See https://www.roli.com/juce for more information."
+                          
+"JUCE is available under different licenses. This application uses the Open Source version of JUCE under GPL 2." = "JUCE is available under different licenses. This application uses the Open Source version of JUCE under GPL 2."
+
+"You need the commercial license of JUCE for proprietary (closed source) applications." = "You need the commercial license of JUCE for proprietary (closed source) applications."

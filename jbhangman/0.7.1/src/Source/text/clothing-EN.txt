@@ -1,0 +1,17 @@
+belt
+boots
+coat
+dress
+earmuffs
+gloves
+hat
+jacket
+pants
+parka
+sandals
+shorts
+skirt
+sneakers
+socks
+sunglasses
+
